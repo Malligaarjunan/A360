@@ -1,1 +1,0 @@
-{"nodes":[],"variables":[{"key":"prompt-assignment","name":"prompt-assignment","description":"A variable you can use for assignments","type":"STRING","subtype":"UNDEFINED","readOnly":false,"input":false,"output":false}],"breakpoints":[],"packages":[],"properties":{"improvedNumberSupport":true,"automationPriority":"PRIORITY_MEDIUM","botCodeVersion":"2"}}
